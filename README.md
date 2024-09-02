@@ -17,3 +17,6 @@ Relevant legal frameworks include:
 By using this script, you agree that any illegal activity involving this tool is entirely your responsibility, and I shall not be held liable for any consequences that arise from such misuse. You must ensure that your use of this script is fully compliant with all applicable laws and regulations. Unauthorized or malicious use of this tool may result in severe legal action.
 
 This script should only be used in environments where explicit permission has been granted for testing, and for educational purposes to prevent and defend against DDoS attacks.
+
+
+For takedown requests or further inquiries, please don't hesitate to contact me via Discord: bymody or email: info@chlebda.de.
