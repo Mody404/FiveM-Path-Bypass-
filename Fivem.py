@@ -12,7 +12,7 @@ warnings.filterwarnings("ignore", message="Unverified HTTPS request")
 SERVER_URL = 'https://IP:PORT/post/server'  # Replace with your server's URL
 
 # Total number of requests to send per process
-REQUESTS_PER_PROCESS = 500  # Adjust this number as necessary
+REQUESTS_PER_PROCESS = 50000  # Adjust this number as necessary
 
 # Large ticket size (increased)
 def create_large_ticket():
